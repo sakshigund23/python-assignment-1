@@ -1,2 +1,2 @@
-# python-assignment-1
+# python-assigment-semester-2
 python-assignment-semester-2
